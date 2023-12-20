@@ -1,3 +1,3 @@
 # startup
 
-Landing page for startups built as part of my Zero to Mastery bootcamp
+Startup landing page built for ZTM Fullstack Web Developer course
